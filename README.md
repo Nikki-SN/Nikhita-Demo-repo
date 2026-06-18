@@ -1,3 +1,3 @@
 # Nikhita-Demo-repo
-This is nikkis demo repo 
+This is nikkis demo repo,
 author - Nikhita Jogalekar 
